@@ -54,7 +54,7 @@ OL-ID
 
 Watch the project in action:  
 
-- **Streamlit App Demo:** [Click Here to View Demo](#)  
+- **Streamlit App Demo:** [Click Here to View Demo](https://ol-25-lp-064-capstone-u9vwzsnkehzhpfwihfdg8t.streamlit.app/)  
 
 ---
 
