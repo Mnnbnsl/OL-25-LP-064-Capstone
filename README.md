@@ -6,7 +6,7 @@
 ## 🧾 Student Information  
 - **Name:** Manan Bansal  
 - **Roll No.:** 24124057  
-- **OpenLearn ID (OL ID):**OL-25-LP-064 
+- **OpenLearn ID (OL ID):** OL-25-LP-064 
 
 ---
 
