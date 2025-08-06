@@ -47,14 +47,14 @@ OL-ID
 - **Classification Notebook:** [Link to Classification Notebook]([https://github.com/Mnnbnsl/OL-25-LP-064-Capstone/blob/main/models/capstone-classification.ipynb](https://github.com/Mnnbnsl/OL-25-LP-064-Capstone/blob/main/models/capstone-classification.ipynb))
 - **Regression Notebook:** [Link to Regression Notebook](https://github.com/Mnnbnsl/OL-25-LP-064-Capstone/blob/main/models/capstone-regression.ipynb)
 - **Clustering Notebook:** [Link to Clustering Notebook](https://github.com/Mnnbnsl/OL-25-LP-064-Capstone/blob/main/models/capstone-clustering.ipynb)
-- **Streamlit App:** [Hosted App Link](#)  
+- **Streamlit App:** [Hosted App Link](https://ol-25-lp-064-capstone-u9vwzsnkehzhpfwihfdg8t.streamlit.app/)  
 - **Technical Report:** [Link to Medium Blog](https://medium.com/@manan.bansal0302/mental-wellness-analysis-a-data-driven-strategy-for-the-tech-workforce-90fe40fc9ac6) 
 
 ## Demo  
 
 Watch the project in action:  
 
-- **Streamlit App Demo:** [Click Here to View Demo](https://supervised-ml-playground.streamlit.app/)
+- **Streamlit App Demo:** [Click Here to View Demo](https://ol-25-lp-064-capstone-u9vwzsnkehzhpfwihfdg8t.streamlit.app/)
 
 ---
 
