@@ -59,11 +59,11 @@ Watch the project in action:
 ---
 
 ### Screenshots  
-![](images/Screenshot 2025-08-07 000527.png)
-![](images/Screenshot 2025-08-07 000543.png)
-![](images/Screenshot 2025-08-07 000554.png)
-![](images/Screenshot 2025-08-07 000607.png)
-![](images/Screenshot 2025-08-07 000619.png)
+<img src="images/Screenshot 2025-08-07 000527.png" alt="Screenshot" width="500"/>
+<img src="images/Screenshot 2025-08-07 000543.png" alt="Screenshot" width="500"/>
+<img src="images/Screenshot 2025-08-07 000554.png" alt="Screenshot" width="500"/>
+<img src="images/Screenshot 2025-08-07 000607.png" alt="Screenshot" width="500"/>
+<img src="images/Screenshot 2025-08-07 000619.png" alt="Screenshot" width="500"/>
 
 
 
