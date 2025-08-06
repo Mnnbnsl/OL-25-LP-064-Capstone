@@ -59,9 +59,12 @@ Watch the project in action:
 ---
 
 ### Screenshots  
-- Dashboard Overview
-- EDA Insights  
-- Model Results
+![](images/Screenshot 2025-08-07 000527.png)
+![](images/Screenshot 2025-08-07 000543.png)
+![](images/Screenshot 2025-08-07 000554.png)
+![](images/Screenshot 2025-08-07 000607.png)
+![](images/Screenshot 2025-08-07 000619.png)
+
 
 
 ## Acknowledgements
