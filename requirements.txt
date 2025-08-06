@@ -1,12 +1,8 @@
 streamlit
+scikit-learn==1.2.2
 pandas
-numpy
-scikit-learn
-joblib
+numpy==1.23.5
 matplotlib
 seaborn
-plotly
-openpyxl
-xgboost             
-lightgbm             
-statsmodels
+joblib
+
